@@ -1,0 +1,9 @@
+LIFO order.
+We use stack in web browser history, for example in browser
+first I have visited to youtube, then on the same page I go to udemy link, then I opened FB.
+if I am trying to back from FB I will go to udemy then again by pressing back button I will go to youtube.
+
+THIS IS STACK!!!
+
+O(1) = for adding and removing last item.
+O(n) = for adding and removing the first item.
